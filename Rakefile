@@ -1,5 +1,5 @@
 
-name :greeting do
+namespace :greeting do
 
   desc 'outputs hello to the terminal'
   task :hello do
